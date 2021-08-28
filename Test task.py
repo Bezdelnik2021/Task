@@ -26,5 +26,5 @@ class NumberFormatter:
         return result * sign
 
 
-Person = NumberFormatter()
-print(Person.parseInt('+12345'))
+# Test1 = NumberFormatter()
+# print(Test1.parseInt('+12345'))
