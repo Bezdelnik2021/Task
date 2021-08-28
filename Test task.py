@@ -27,4 +27,4 @@ class NumberFormatter:
 
 
 # Test1 = NumberFormatter()
-# print(Test1.parseInt('+12345'))
+# print(Test1.parseInt('+12345')) >>> 12345
