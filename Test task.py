@@ -3,6 +3,7 @@ class NumberFormatter:
         self.args = args
 
     def parseInt(self, s):
+        self.s=s
 
         array_of_number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
